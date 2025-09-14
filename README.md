@@ -1,1 +1,1 @@
-# Genetic-Oscillator-Deterministic-vs-Stochastic-Modeling
+This project implements and compares deterministic and stochastic models of a genetic oscillator based on the activator-repressor mechanism described in Vilar et al. (2002). The models simulate circadian rhythm dynamics in biological systems, exploring how noise affects oscillatory behavior.
